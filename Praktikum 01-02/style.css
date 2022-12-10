@@ -1,0 +1,18 @@
+body
+{
+background-color: #000;
+}
+h3
+{
+font-weight: bold;
+font-size: 20px;
+color: #F00;
+}
+p
+{
+color: #00F;
+}
+
+#btnCari {
+    background-color: #00F;
+}
